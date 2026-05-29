@@ -17,7 +17,7 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Postgres](https://img.shields.io/badge/postgres-00000F?style=for-the-badge&logo=Postgres&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/Figma-100000?style=for-the-badge&logo=figma&logoColor=white)
 
