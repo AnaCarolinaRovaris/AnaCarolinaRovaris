@@ -47,7 +47,13 @@
 - Desenvolvimento de sistema de gerenciamento financeiro  
 - Modelagem e implementação de banco de dados MySQL  
 - Operações CRUD para clientes, treinos e assinaturas  
-- Integração entre JavaScript e banco de dados  
+- Integração entre JavaScript e banco de dados
+
+  ### 🐸 Orbion: Echoes of Chaos
+- Jogo de plataforma 2D desenvolvido em Construct 2
+- Personagem principal: Orbion, um sapo em mundo corrompido por anomalias
+- 3 fases com dificuldade progressiva
+- Exportação em HTML5
 
 ---
 
