@@ -23,8 +23,7 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![Construct 2](https://img.shields.io/badge/Construct_2-FF6B6B?style=for-the-badge&logo=game-and-watch&logoColor=white)
-
+![Construct 2](https://img.shields.io/badge/Construct_2-000000?style=for-the-badge&logo=construct3&logoColor=white)
 ---
 ## 🌎 Idiomas
 
