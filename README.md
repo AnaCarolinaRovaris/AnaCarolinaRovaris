@@ -48,11 +48,11 @@
 - Operações CRUD para clientes, treinos e assinaturas  
 - Integração entre JavaScript e banco de dados
 
-### 🐸 Orbion: Echoes of Chaos
-- Jogo de plataforma 2D desenvolvido em Construct 2
-- Personagem principal: Orbion, um sapo em mundo corrompido por anomalias
-- 3 fases com dificuldade progressiva
-- Exportação em HTML5
+### 🏎️ Algoritmos Preditivos para Otimização de Janelas de Pit-Stop Baseados na Degradação de Pneus
+Desenvolvimento de algoritmos preditivos em Python para análise de dados
+- Criação de modelos para otimização de tempo e estratégia de corrida
+- Utilização de banco de dados SQL para armazenar histórico de performance
+- Aplicação de lógica de programação para resolver problemas de engenharia
 
 ---
 
